@@ -47,9 +47,9 @@
 
 ### 📈 GitHub Stats
 
-![Nowshin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FabihaPritha&show_icons=true&theme=radical) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FabihaPritha&layout=compact&theme=radical)
+![Nowshin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FabihaPritha&show_icons=true&theme=radical&cache_seconds=1800)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FabihaPritha&layout=compact&theme=radical&cache_seconds=1800)
 ---
 
 ### 🔥 Streak Stats
