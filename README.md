@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nowshin Fabiha Ibnat</h1>
-
-
 <p align="center">Passionate about learning, dedicated to building, and always excited to explore something new.</p>
 
 - 🎓 Studying **Software Engineering** at **Noakhali Science and Technology University (NSTU)**
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I'm currently learning **Flutter**
 - 👨‍💻 I practice problem solving on [CODECHEF](https://www.codechef.com/users/fabiha_ibnat)
 - 🛠 All of my projects are available [Here](https://github.com/FabihaPritha)
 - 📫 Reach me at: ibnatnstu@gmail.com
@@ -29,7 +27,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
-
 ---
 
 ### 🤝 Let's Get in Touch
@@ -46,12 +43,21 @@
   </a>
 </p>
 
-
-
-
 ---
 
 ### 📈 GitHub Stats
 
 ![Nowshin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FabihaPritha&show_icons=true&theme=radical) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FabihaPritha&layout=compact&theme=radical)
+
+---
+
+### 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FabihaPritha&theme=radical)
+
+---
+
+### 📊 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FabihaPritha&theme=react-dark)
