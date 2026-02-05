@@ -2,7 +2,7 @@
 <p align="center">Passionate about learning, dedicated to building, and always excited to explore something new.</p>
 
 - 🎓 Studying **Software Engineering** at **Noakhali Science and Technology University (NSTU)**
-- 🌱 I'm currently learning **Flutter**
+- 🌱 I'm currently working as **Flutter Developer**
 - 👨‍💻 I practice problem solving on [CODECHEF](https://www.codechef.com/users/fabiha_ibnat)
 - 🛠 All of my projects are available [Here](https://github.com/FabihaPritha)
 - 📫 Reach me at: ibnatnstu@gmail.com
