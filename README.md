@@ -27,12 +27,13 @@
 
 ### 📊 Performance & Statistics
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabihaPritha&layout=compact&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FabihaPritha&show_icons=true&theme=radical&hide_border=true" />
-</p>
+| Most Used Languages | GitHub Stats |
+|---|---|
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabihaPritha&layout=compact&theme=radical&hide_border=true" width="400px" /> | <img src="https://github-readme-stats.vercel.app/api?username=FabihaPritha&show_icons=true&theme=radical&hide_border=true" width="400px" /> |
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FabihaPritha&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FabihaPritha&theme=radical&hide_border=true" width="100%" />
+</p>
 
 ---
 
