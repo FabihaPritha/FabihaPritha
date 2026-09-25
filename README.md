@@ -6,7 +6,7 @@
 - 👨‍💻 I practice problem solving on [CODECHEF](https://www.codechef.com/users/fabiha_ibnat)
 - 🛠 All of my projects are available [Here](https://github.com/FabihaPritha)
 - 📫 Reach me at: **ibnatnstu@gmail.com**
-- 🌐 Know about me: [View Portfolio](https://fabihapritha.github.io/My_Portfolio/)
+- 🌐 Know about me: [View Portfolio](https://fabihapritha.github.io/portfolio/)
 
 ---
 
